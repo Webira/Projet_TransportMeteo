@@ -1,4 +1,4 @@
-import { degToCompass } from "../services/converters";
+/*import { degToCompass } from "../services/converters";
 import {
   getTime,
   getAMPM,
@@ -60,4 +60,4 @@ export const MetricsBox = ({ weatherData, unitSystem }) => {
       />
     </div>
   );
-};
+};*/

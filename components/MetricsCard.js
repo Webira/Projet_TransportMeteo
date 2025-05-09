@@ -1,4 +1,4 @@
-import Image from "next/image";
+/*import Image from "next/image";
 import styles from "./MetricsCard.module.css";
 
 export const MetricsCard = ({ title, iconSrc, metric, unit }) => {
@@ -14,4 +14,4 @@ export const MetricsCard = ({ title, iconSrc, metric, unit }) => {
       </div>
     </div>
   );
-};
+};*/

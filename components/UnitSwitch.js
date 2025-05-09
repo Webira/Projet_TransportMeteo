@@ -1,4 +1,4 @@
-import styles from "./UnitSwitch.module.css";
+/*import styles from "./UnitSwitch.module.css";
 
 export const UnitSwitch = ({ onClick, unitSystem }) => {
   return (
@@ -21,4 +21,4 @@ export const UnitSwitch = ({ onClick, unitSystem }) => {
       </p>
     </div>
   );
-};
+};*/

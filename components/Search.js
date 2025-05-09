@@ -1,4 +1,4 @@
-import styles from "./Search.module.css";
+/*import styles from "./Search.module.css";
 
 export const Search = ({
   placeHolder,
@@ -18,4 +18,4 @@ export const Search = ({
       onKeyDown={onKeyDown}
     />
   );
-};
+};*/

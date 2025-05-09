@@ -1,4 +1,4 @@
-import { getWeekDay, getTime, getAMPM } from "../services/helpers";
+/*import { getWeekDay, getTime, getAMPM } from "../services/helpers";
 import styles from "./DateAndTime.module.css";
 
 export const DateAndTime = ({ weatherData, unitSystem }) => {
@@ -13,4 +13,4 @@ export const DateAndTime = ({ weatherData, unitSystem }) => {
       </h2>
     </div>
   );
-};
+};*/
